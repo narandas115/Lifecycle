@@ -1,0 +1,40 @@
+{
+    "Product":[{
+                "p_name":"Mobile",
+                "p_id":"P01",
+                "description":"Mobile phone",
+                "SubhCatagory":{
+                    "s_id":"PS01",
+                    "company":"Samsung",
+                    "price":"Rs12000",
+                    "s_description":"Learn ipsum dolor sit amet,consecture adipiscing elit.Nam vel placerat urna,sit amet sagittis augue.Fusce ac aliquam nisl.Nuce non return elit.Vivamus nunc urna accumsan nec facilisis eget,facilisis a purus.Integer neque lorem,aliqum at suscipit quis,sodales non felis"
+                }
+                },
+                {
+                    "p_name":"Mobile",
+                    "p_id":"P02",
+                    "description":"Mobile phone",
+                    "SubhCatagory":{
+                        "s_id":"PS02",
+                        "company":"Redmi",
+                        "price":"Rs10000",
+                        "s_description":"Learn ipsum dolor sit amet,consecture adipiscing elit.Nam vel placerat urna,sit amet sagittis augue.Fusce ac aliquam nisl.Nuce non return elit.Vivamus nunc urna accumsan nec facilisis eget,facilisis a purus.Integer neque lorem,aliqum at suscipit quis,sodales non felis"
+                    }
+                },
+                {
+                    "p_name":"Mobile",
+                    "p_id":"P03",
+                    "description":"Mobile phone",
+                    "SubhCatagory":[{
+                        "s_id":"PS03",
+                        "company":"Realme",
+                        "price":"Rs11000",
+                        "s_description":"Learn ipsum dolor sit amet,consecture adipiscing elit.Nam vel placerat urna,sit amet sagittis augue.Fusce ac aliquam nisl.Nuce non return elit.Vivamus nunc urna accumsan nec facilisis eget,facilisis a purus.Integer neque lorem,aliqum at suscipit quis,sodales non felis"
+                
+                }
+
+                ]
+
+    
+}]}
+
